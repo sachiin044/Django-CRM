@@ -109,6 +109,15 @@ Now, open **http://127.0.0.1:8000/** in your browser! 🌍
 
 ---
 
+## 📜 License  
+
+This project is licensed under the **MIT License**. 📝  
+You're free to use, modify, and distribute this project as you like, but **no warranties** are provided!  
+
+🔗 See the full **LICENSE** file for more details.  
+
+---
+
 ## 🤝 Open for Collaboration!  
 
 Hey you! Yes, you! 👀 If you have ideas, suggestions, or want to make DjangoChronicle even better, feel free to:  
